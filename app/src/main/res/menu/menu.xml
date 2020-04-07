@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/btnBrokenbike"
+        android:title=""
+        app:showAsAction="always"
+        android:icon="@drawable/brokenbike"
+        android:actionLayout="@layout/places_autocomplete_item_prediction"
+        />
+</menu>

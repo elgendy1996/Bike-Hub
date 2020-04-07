@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707175730294",
+    "firebase_url": "https://bikehubmaster-fontys.firebaseio.com",
+    "project_id": "bikehubmaster-fontys",
+    "storage_bucket": "bikehubmaster-fontys.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707175730294:android:e16f3c9a1b9d5d6b",
+        "android_client_info": {
+          "package_name": "nl.fontys.bikehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707175730294-rtj86jov2gcs4o9odar0a0e6ug8mann5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZTy4wJt8NXu2ikeKoiANSbjKdaGmgDGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707175730294-rtj86jov2gcs4o9odar0a0e6ug8mann5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
